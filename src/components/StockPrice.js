@@ -10,7 +10,7 @@ export const StockPrice = () => {
           <ul className="list-inline">
             <li className="list-inline-item small">• S&P 500 Futures 3352.70 +7.900 +0.24%</li>
             <li className="list-inline-item small">• WTI Future 41.98 +0.040 +0.10%</li>
-            <li className="list-inline-item small">• NIKKEI 225 22329.94 -88.210 -0.39%</li>
+            <li className="list-inline-item small">• NIKKEI 225 22329.94 -88.210 -0.39% • DOW 27,811.22 +33.15+0.12%</li>
           </ul>
         </div>
       )}
